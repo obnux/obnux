@@ -12,3 +12,10 @@ I love developing backend and frontEnd.
 - 💬 Ask me about VueJs
 - 📷 Want to see me? See on Instagram [Instagram](https://www.instagram.com/obnux/).
 - 📫 How to reach me: obeydi.abb@gmail.com
+
+
+<br/>
+<br/>
+<br/>
+
+[![Activity graph](https://activity-graph.herokuapp.com/graph?username=obnux&bg_color=fdf6ed&color=0a07c0&line=f5d400&point=4d61b3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
