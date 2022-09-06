@@ -12,7 +12,7 @@ I love developing backend and frontEnd.
 - 💬 Ask me about PHP / Laravel / VueJs / SEO
 - 📷 Want to see me ? See on Instagram [Instagram](https://www.instagram.com/obnux/).
 - 📫 How to reach me: obeydi.abb@gmail.com
-- :link: How to reach me: [Obeydi Abbassi](https://obeydi.abbassi.me/)
+- :link: How to reach me: [Obeydi Abbassi](https://obeydi-abbassi.me/){:target="_blank"}
 
 <br/>
 <br/>
