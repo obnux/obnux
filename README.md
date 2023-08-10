@@ -18,5 +18,5 @@ I love developing backend and frontEnd.
 <br/>
 <br/>
 
-[![Activity graph](https://activity-graph.herokuapp.com/graph?username=obnux&bg_color=fdf6ed&color=0a07c0&line=f5d400&point=4d61b3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=obnux&bg_color=fdf6ed&color=0a07c0&line=f5d400&point=4d61b3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obnux&theme=vue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
