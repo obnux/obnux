@@ -9,7 +9,7 @@ I love developing backend and frontEnd.
 
 - 🔭 I’m currently working at [Dassault Systemes Technology](https://www.dassault.fr/subsidiaries/dassault-systemes)
 - 🌱 I’m currently learning Java/Symfony, VueJs/React and DevOps tools
-- 💬 Ask me about Nuxt.js / PHP / Laravel / VueJs / SEO
+- 💬 Ask me about Nuxt.js /NodeJs / Docker / Java / PHP / Laravel / VueJs / SEO
 - :camera: Want to see me ? See on Instagram [Instagram](https://www.instagram.com/obnux/).
 - :e-mail: How to reach me: obeydi.abb@gmail.com
 - :link: How to reach me: [Obeydi Abbassi](https://obeydi-abbassi.me/)
