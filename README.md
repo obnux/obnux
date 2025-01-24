@@ -19,11 +19,10 @@ I love developing backend and frontEnd.
 <br/>
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Obnux&count_private=true&show_icons=true&theme=vue&rank_icon=github&border_radius=5">
 
-<img src="[https://github-readme-stats-salesp07.vercel.app/api?username=Obnux&count_private=true&show_icons=true&theme=vue&rank_icon=github&border_radius=5](https://github-readme-streak-stats-salesp07.vercel.app/?user=obnux&count_private=true&theme=vue&border_radius=5)">
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Obnux&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
 
-[https://github-readme-stats-salesp07.vercel.app/api?username=Obnux&count_private=true&show_icons=true&theme=vue&rank_icon=github&border_radius=5]()
-
+ 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=obnux&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obnux&theme=vue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
