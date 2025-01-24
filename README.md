@@ -20,26 +20,22 @@ I love developing backend and frontEnd.
 
 
 <div style="display: flex; flex-wrap: wrap; align-items: stretch; gap: 10px; margin-bottom: 20px;">
-  <img 
-    style="flex: 1; max-width: 33.0%; box-sizing: border-box; object-fit: cover;" 
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=Obnux&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github&border_radius=5"
-  >
-  <a 
-    href="https://git.io/streak-stats" 
-    style="flex: 1; max-width: 33.0%; box-sizing: border-box; display: flex; align-items: center; justify-content: center;"
-  >
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=obnux&theme=vuedark&date_format=M%20j%5B%2C%20Y%5D" 
-      style="width: 100%; height: 100%; object-fit: cover;"
-    >
-  </a>
-  <img 
-    style="flex: 1; max-width: 33.0%; box-sizing: border-box; object-fit: cover;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=obnux&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"
-  >
+  <img style="flex: 1; max-width: 33.0%; box-sizing: border-box; object-fit: cover;" 
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=Obnux&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github&border_radius=5">
+
+
+
+<img style="flex: 1; max-width: 33.0%; box-sizing: border-box; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com?user=obnux&theme=vue-dark" />
+
+    
+
+  <img style="flex: 1; max-width: 33.0%; box-sizing: border-box; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obnux&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
 </div>
 
 
+<!-- <a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=obnux&theme=vue-dark&border_radius=5&short_numbers=true" />
+</a> -->
 
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=obnux&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=obnux&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
